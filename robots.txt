@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ongan12345.github.io/notes-gje508/sitemap.xml
